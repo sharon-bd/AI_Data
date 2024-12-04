@@ -1,0 +1,21 @@
+Model,Manufacturer,Country,Max Speed (km/h),Range (km),Seating Capacity,Introduced
+Boeing 737, Boeing, USA, 876, 6570, 189, 1968
+Airbus A320, Airbus, Europe, 871, 6150, 180, 1988
+Boeing 747, Boeing, USA, 988, 13850, 660, 1969
+Airbus A380, Airbus, Europe, 1020, 15200, 853, 2007
+Boeing 777, Boeing, USA, 950, 15600, 396, 1995
+Airbus A350, Airbus, Europe, 945, 15000, 440, 2013
+McDonnell Douglas DC-10, McDonnell Douglas, USA, 917, 9660, 380, 1970
+Lockheed L-1011 TriStar, Lockheed, USA, 933, 7400, 400, 1972
+Boeing 767, Boeing, USA, 913, 12200, 375, 1981
+Airbus A330, Airbus, Europe, 913, 13450, 406, 1992
+Bombardier CRJ700, Bombardier, Canada, 829, 2200, 78, 1999
+Embraer E190, Embraer, Brazil, 890, 4500, 114, 2004
+Boeing 757, Boeing, USA, 982, 7222, 243, 1982
+Tupolev Tu-204, Tupolev, Russia, 900, 9600, 210, 1996
+Comac C919, Comac, China, 870, 4075, 168, 2021
+Sukhoi Superjet 100, Sukhoi, Russia, 870, 4578, 108, 2011
+Concorde, Aérospatiale/BAC, UK/France, 2180, 7222, 92, 1976
+Boeing 787, Boeing, USA, 954, 14800, 296, 2009
+Airbus A220, Airbus, Europe, 871, 6200, 141, 2018
+Ilyushin Il-96, Ilyushin, Russia, 900, 12000, 262, 1988
